@@ -4,7 +4,11 @@ description: This resource contains the information regarding, advanced fluid me
   dimensional analysis.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/4416eb962415ae2cb9fe6c52fced4a34_MIT2_25F13_Shapi7.12_Solut.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Dimensional Analysis
+parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 7.12
+type: OCWFile
 uid: 4416eb96-2415-ae2c-b9fe-6c52fced4a34
 ---

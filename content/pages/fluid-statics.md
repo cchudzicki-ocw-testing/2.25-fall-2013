@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Fluid Statics
+type: CourseSection
 uid: db94f9bc-6d8a-e9b8-3848-c09f9aa1c6ff
 ---
 

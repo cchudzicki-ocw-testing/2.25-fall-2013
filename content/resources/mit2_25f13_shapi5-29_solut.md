@@ -4,7 +4,11 @@ description: This resource contains the information regarding, advanced fluid me
   control volume theorems and applications.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/59431e7061ae1f53d459fba63ece3926_MIT2_25F13_Shapi5.29_Solut.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Control Volume Theorems and Applications
+parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 5.29
+type: OCWFile
 uid: 59431e70-61ae-1f53-d459-fba63ece3926
 ---

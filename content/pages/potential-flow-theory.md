@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: Potential Flow Theory
+type: CourseSection
 uid: 53f1bc6a-eaf9-05b5-f4d5-8c62ba355d8f
 ---
 

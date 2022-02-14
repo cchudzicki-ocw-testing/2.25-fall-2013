@@ -1,6 +1,8 @@
 ---
 content_type: page
+learning_resource_types: []
 title: More Complex Viscous-Dominated Flows
+type: CourseSection
 uid: 45882126-68ea-5a24-72c2-0d207998eacb
 ---
 

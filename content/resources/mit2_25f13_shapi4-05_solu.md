@@ -4,7 +4,11 @@ description: This resource contains information related to, advanced fluid mecha
   inviscid flow and bernoulli.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/4dd2cdea89546907717d095986c4f66e_MIT2_25F13_Shapi4.05_Solu.pdf
 file_type: application/pdf
+learning_resource_types: []
+parent_title: Inviscid Flow and Bernoulli
+parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 4.05
+type: OCWFile
 uid: 4dd2cdea-8954-6907-717d-095986c4f66e
 ---

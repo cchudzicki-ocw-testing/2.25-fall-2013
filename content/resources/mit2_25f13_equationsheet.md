@@ -4,7 +4,12 @@ description: This file contains information regarding advanced fluid mechanics, 
   sheet for final exam.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/53faf9135b15c4e419ca8dfd9e74a735_MIT2_25F13_EquationSheet.pdf
 file_type: application/pdf
+learning_resource_types:
+- Exams
+parent_title: Exams
+parent_type: CourseSection
 resourcetype: Document
 title: Equation Sheet for Final Exam
+type: OCWFile
 uid: 53faf913-5b15-c4e4-19ca-8dfd9e74a735
 ---
