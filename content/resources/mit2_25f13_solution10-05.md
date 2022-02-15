@@ -5,6 +5,7 @@ description: This file contains information regarding advanced fluid mechanics, 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/63b38e09f7baa2537ef568e16894f8a6_MIT2_25F13_Solution10.05.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Vorticity and Circulation
 parent_type: CourseSection
 resourcetype: Document

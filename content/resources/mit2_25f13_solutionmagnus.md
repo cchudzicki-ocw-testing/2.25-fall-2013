@@ -5,6 +5,7 @@ description: This file contains information regarding advanced fluid mechanics, 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/4f196dafa54395560954dd87bc69340b_MIT2_25F13_SolutionMagnus.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Potential Flow Theory
 parent_type: CourseSection
 resourcetype: Document

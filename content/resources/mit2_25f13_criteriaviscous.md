@@ -6,6 +6,7 @@ description: This file contains information regarding advanced fluid mechanics, 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/0de558cc4fe1dc08dc54b565b686d466_MIT2_25F13_Criteriaviscous.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
 resourcetype: Document

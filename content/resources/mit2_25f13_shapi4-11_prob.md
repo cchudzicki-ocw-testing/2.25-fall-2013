@@ -5,6 +5,7 @@ description: This resource contains information related to, advanced fluid mecha
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/9d3a698b8eaf3ccb08e27691f54e3cf7_MIT2_25F13_Shapi4.11_Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Inviscid Flow and Bernoulli
 parent_type: CourseSection
 resourcetype: Document

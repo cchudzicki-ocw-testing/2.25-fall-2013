@@ -5,6 +5,7 @@ description: This resource contains information related to equation of motion fo
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/83aa0d8fd395e8e7d9bc8b236ab4bfe7_MIT2_25F13_Equat_of_Motio.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Equations of Viscous Flow
 parent_type: CourseSection
 resourcetype: Document

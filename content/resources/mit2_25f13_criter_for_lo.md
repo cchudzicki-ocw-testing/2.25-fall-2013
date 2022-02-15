@@ -5,6 +5,7 @@ description: This resource contains information related to criteria for locally 
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/2-25-advanced-fluid-mechanics-fall-2013/a40c99d77c5f2849a8645fcfa15a606a_MIT2_25F13_Criter_for_lo.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Equations of Viscous Flow
 parent_type: CourseSection
 resourcetype: Document
