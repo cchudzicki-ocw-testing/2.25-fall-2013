@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: The Continuum Viewpoint and the Equations of Motion
-type: CourseSection
 uid: 3fcfdad1-1e62-96bb-6260-e3cf2d650dfd
 ---
 

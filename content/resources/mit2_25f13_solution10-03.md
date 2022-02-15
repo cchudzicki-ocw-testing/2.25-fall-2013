@@ -9,6 +9,5 @@ parent_title: Vorticity and Circulation
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 10.3
-type: OCWFile
 uid: 4053f8a3-1c42-65e3-c8b0-86e6c9de4e94
 ---

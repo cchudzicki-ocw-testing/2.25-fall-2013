@@ -9,6 +9,5 @@ parent_title: Potential Flow Theory
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to the Magnus Effect
-type: OCWFile
 uid: 4f196daf-a543-9556-0954-dd87bc69340b
 ---

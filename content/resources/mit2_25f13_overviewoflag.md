@@ -9,6 +9,5 @@ parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
 resourcetype: Document
 title: Overview of Lagrangian and Eulerian Descriptions
-type: OCWFile
 uid: ef8ad42f-76f4-1c1b-62ae-62effb1e60fb
 ---

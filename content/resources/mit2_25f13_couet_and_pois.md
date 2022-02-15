@@ -8,6 +8,5 @@ parent_title: Equations of Viscous Flow
 parent_type: CourseSection
 resourcetype: Document
 title: Couette & Poiseuille Flows
-type: OCWFile
 uid: 1a114d60-2956-fa0d-d328-155f9b45f93d
 ---

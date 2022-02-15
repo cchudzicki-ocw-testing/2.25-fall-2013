@@ -9,6 +9,5 @@ parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
 resourcetype: Document
 title: Viscous Decay of a Free Vortex
-type: OCWFile
 uid: 9a9a4891-fb1e-7df9-8849-e3b640ccdd88
 ---

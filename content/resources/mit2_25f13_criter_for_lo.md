@@ -9,6 +9,5 @@ parent_title: Equations of Viscous Flow
 parent_type: CourseSection
 resourcetype: Document
 title: Criteria for locally fully developed viscous flow
-type: OCWFile
 uid: a40c99d7-7c5f-2849-a864-5fcfa15a606a
 ---

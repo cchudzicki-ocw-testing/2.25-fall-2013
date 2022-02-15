@@ -9,6 +9,5 @@ parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
 resourcetype: Document
 title: Vector Calculus Review Problems
-type: OCWFile
 uid: 512c7346-3ac4-6ec0-895a-20efc7b7b029
 ---

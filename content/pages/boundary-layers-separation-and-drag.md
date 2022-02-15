@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Boundary Layers, Separation, and Drag
-type: CourseSection
 uid: bcf976d3-f9f7-a5aa-2eeb-55ae4a078dc7
 ---
 

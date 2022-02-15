@@ -11,6 +11,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'On Choosing and Using Contr Volumes: Six Ways of Applying the Integral Mass
   Conservation Theorem to a Simple Problem'
-type: OCWFile
 uid: 1657c64b-3737-c8d3-5e59-05ea21702c6b
 ---

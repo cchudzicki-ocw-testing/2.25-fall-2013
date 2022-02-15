@@ -9,6 +9,5 @@ parent_title: Surface Tension and Its Importance
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 2.05
-type: OCWFile
 uid: a9975ccd-2c38-0b3f-fa44-16cb2fc4a670
 ---

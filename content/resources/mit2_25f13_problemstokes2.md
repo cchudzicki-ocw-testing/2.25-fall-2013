@@ -9,6 +9,5 @@ parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
 resourcetype: Document
 title: Stokes Second Problem ATP
-type: OCWFile
 uid: facf1562-50bc-1288-179f-85e2245e4005
 ---

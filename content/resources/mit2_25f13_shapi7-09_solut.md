@@ -9,6 +9,5 @@ parent_title: Dimensional Analysis
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 7.09
-type: OCWFile
 uid: 427390e3-ba62-b1cf-de8a-b012cbb432bf
 ---

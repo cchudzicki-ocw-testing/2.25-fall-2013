@@ -9,6 +9,5 @@ parent_title: Boundary Layers, Separation, and Drag
 parent_type: CourseSection
 resourcetype: Document
 title: Problem 9.03
-type: OCWFile
 uid: 001ac650-2287-f047-071b-b0de79c45dd0
 ---

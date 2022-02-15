@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Equation Sheet for Final Exam
-type: OCWFile
 uid: 53faf913-5b15-c4e4-19ca-8dfd9e74a735
 ---

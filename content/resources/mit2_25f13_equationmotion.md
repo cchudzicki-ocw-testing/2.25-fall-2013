@@ -9,6 +9,5 @@ parent_title: Potential Flow Theory
 parent_type: CourseSection
 resourcetype: Document
 title: Equation of Motion in Streamline Coordinates
-type: OCWFile
 uid: 1e684710-c331-4940-59c6-9296f48fd09f
 ---

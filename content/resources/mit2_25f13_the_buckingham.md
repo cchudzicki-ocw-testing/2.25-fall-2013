@@ -9,6 +9,5 @@ parent_title: Dimensional Analysis
 parent_type: CourseSection
 resourcetype: Document
 title: The Buckingham Pi Theorem in Dimensional Analysis
-type: OCWFile
 uid: c0a4521f-55e9-191d-557c-167e99e97469
 ---

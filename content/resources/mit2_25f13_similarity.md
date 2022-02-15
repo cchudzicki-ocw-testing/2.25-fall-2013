@@ -9,6 +9,5 @@ parent_title: Dimensional Analysis
 parent_type: CourseSection
 resourcetype: Document
 title: Similarity
-type: OCWFile
 uid: 506579a6-771b-7004-e583-ea8b28423b7c
 ---

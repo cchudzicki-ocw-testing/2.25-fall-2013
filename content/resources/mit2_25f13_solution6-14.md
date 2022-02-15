@@ -9,6 +9,5 @@ parent_title: Potential Flow Theory
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 6.14
-type: OCWFile
 uid: 376ceb80-6d62-1d1c-7b27-a1f8fdc2c13e
 ---

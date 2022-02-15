@@ -10,6 +10,5 @@ parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
 resourcetype: Document
 title: Criteria for locally fully developed viscous flow
-type: OCWFile
 uid: 0de558cc-4fe1-dc08-dc54-b565b686d466
 ---

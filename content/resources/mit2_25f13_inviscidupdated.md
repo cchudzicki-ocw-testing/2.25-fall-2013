@@ -9,6 +9,5 @@ parent_title: Potential Flow Theory
 parent_type: CourseSection
 resourcetype: Document
 title: Inviscid Flow Equation Sheet
-type: OCWFile
 uid: b7e15803-b6ce-d6af-0255-c057c60e9715
 ---

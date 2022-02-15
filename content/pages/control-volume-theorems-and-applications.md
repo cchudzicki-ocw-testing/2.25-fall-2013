@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Control Volume Theorems and Applications
-type: CourseSection
 uid: fbff7e9d-2f58-b539-80d8-8b4665b1f3ea
 ---
 

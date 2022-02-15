@@ -9,6 +9,5 @@ parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
 resourcetype: Document
 title: Geometric Interpretation of Fluid Kinematics In Steady Shear Flow
-type: OCWFile
 uid: 684c85df-01ed-b74b-cd1d-36e0a210de6e
 ---

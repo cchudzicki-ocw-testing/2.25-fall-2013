@@ -9,6 +9,5 @@ parent_title: Inviscid Flow and Bernoulli
 parent_type: CourseSection
 resourcetype: Document
 title: Equation of Motion in Streamline Coordinates
-type: OCWFile
 uid: 7d784c60-e3ae-99f3-11d0-ea7dc2e4d60d
 ---

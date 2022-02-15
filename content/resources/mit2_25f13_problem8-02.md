@@ -9,6 +9,5 @@ parent_title: More Complex Viscous-Dominated Flows
 parent_type: CourseSection
 resourcetype: Document
 title: Problem 8.02
-type: OCWFile
 uid: 2f13f4a1-dac2-a5e6-3cbf-e3b986eafe44
 ---

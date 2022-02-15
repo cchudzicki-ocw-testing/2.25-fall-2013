@@ -9,6 +9,5 @@ parent_title: Boundary Layers, Separation, and Drag
 parent_type: CourseSection
 resourcetype: Document
 title: Boundary Layer on a Free Surface
-type: OCWFile
 uid: 545eeee2-ea98-1ac2-e22e-92592b99dcc0
 ---

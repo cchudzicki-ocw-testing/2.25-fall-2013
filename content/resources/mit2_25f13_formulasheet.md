@@ -9,6 +9,5 @@ parent_title: Potential Flow Theory
 parent_type: CourseSection
 resourcetype: Document
 title: Fluid Mechanics Equation Sheet
-type: OCWFile
 uid: fecad1d7-b501-558b-fbbf-9a4414d7d17a
 ---

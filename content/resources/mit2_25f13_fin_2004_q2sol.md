@@ -8,6 +8,5 @@ parent_title: Equations of Viscous Flow
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 2
-type: OCWFile
 uid: 2bb54339-b426-5350-a2a0-4c8134b47a4a
 ---

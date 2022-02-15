@@ -9,6 +9,5 @@ parent_title: Inviscid Flow and Bernoulli
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 4.04
-type: OCWFile
 uid: b670c930-c356-7988-d6d8-d994d0693e79
 ---

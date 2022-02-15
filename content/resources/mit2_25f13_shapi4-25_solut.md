@@ -9,6 +9,5 @@ parent_title: Control Volume Theorems and Applications
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 4.25
-type: OCWFile
 uid: 0bb6b66f-fdee-c879-6dea-f113e68e9400
 ---

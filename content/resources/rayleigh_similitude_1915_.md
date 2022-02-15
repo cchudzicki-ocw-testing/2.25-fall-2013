@@ -9,6 +9,5 @@ parent_title: Dimensional Analysis
 parent_type: CourseSection
 resourcetype: Document
 title: The Principle of Similitude, Nature
-type: OCWFile
 uid: 2e4155f5-de07-4113-8dde-2d54bb0fafde
 ---

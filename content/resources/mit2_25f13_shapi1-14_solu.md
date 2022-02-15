@@ -9,6 +9,5 @@ parent_title: Fluid Statics
 parent_type: CourseSection
 resourcetype: Document
 title: Solution to Problem 1.14
-type: OCWFile
 uid: 1a6c09ad-948d-72b2-3e18-872e3913370d
 ---

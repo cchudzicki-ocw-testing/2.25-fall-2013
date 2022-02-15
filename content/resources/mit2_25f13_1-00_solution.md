@@ -8,6 +8,5 @@ parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
 resourcetype: Document
 title: Solutions to Problem 1.00
-type: OCWFile
 uid: d7d90764-b838-c71f-9086-ce33d6fbf0e3
 ---

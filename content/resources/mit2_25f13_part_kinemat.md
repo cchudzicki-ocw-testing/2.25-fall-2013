@@ -8,6 +8,5 @@ parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
 resourcetype: Document
 title: Particle Kinematics
-type: OCWFile
 uid: 9d4f06c7-9a7e-3933-afed-97e32e719638
 ---

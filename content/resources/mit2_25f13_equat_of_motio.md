@@ -9,6 +9,5 @@ parent_title: Equations of Viscous Flow
 parent_type: CourseSection
 resourcetype: Document
 title: Equation of Motion for Viscous Flow
-type: OCWFile
 uid: 83aa0d8f-d395-e8e7-d9bc-8b236ab4bfe7
 ---

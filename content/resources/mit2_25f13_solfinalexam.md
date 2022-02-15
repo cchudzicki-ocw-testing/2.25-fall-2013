@@ -10,6 +10,5 @@ parent_title: Exams
 parent_type: CourseSection
 resourcetype: Document
 title: Solutions to the Final Exam
-type: OCWFile
 uid: e53775b7-c7cd-db1c-6b60-cf12e8f3fede
 ---

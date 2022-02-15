@@ -9,6 +9,5 @@ parent_title: The Continuum Viewpoint and the Equations of Motion
 parent_type: CourseSection
 resourcetype: Document
 title: 'The Continuity Equation: Conservation of Mass for a Fluid Element'
-type: OCWFile
 uid: 5f1e3b9e-fcff-d44a-65f3-812887ff30e1
 ---
