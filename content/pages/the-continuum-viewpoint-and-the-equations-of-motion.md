@@ -49,10 +49,10 @@ _Reading in:_ Tritton, D. J. _Physical Fluid Dynamics_. Springer, 2013. ISBN: 97
 Class Notes
 -----------
 
-*   {{< resource_link ef8ad42f-76f4-1c1b-62ae-62effb1e60fb "Overview of Lagrangian and Eulerian Descriptions (PDF)" >}}
-*   {{< resource_link 684c85df-01ed-b74b-cd1d-36e0a210de6e "Geometric Interpretation of Fluid Kinematics In Steady Shear Flow (PDF)" >}}
-*   {{< resource_link 5f1e3b9e-fcff-d44a-65f3-812887ff30e1 "The Continuity Equation: Conservation of Mass for a Fluid Element (PDF)" >}}
-*   {{< resource_link bd017dbc-7bfe-7172-3ae3-1c257c0faf0f "Solid Body Rotation, Extra Notes (PDF)" >}}
+*   {{% resource_link ef8ad42f-76f4-1c1b-62ae-62effb1e60fb "Overview of Lagrangian and Eulerian Descriptions (PDF)" %}}
+*   {{% resource_link 684c85df-01ed-b74b-cd1d-36e0a210de6e "Geometric Interpretation of Fluid Kinematics In Steady Shear Flow (PDF)" %}}
+*   {{% resource_link 5f1e3b9e-fcff-d44a-65f3-812887ff30e1 "The Continuity Equation: Conservation of Mass for a Fluid Element (PDF)" %}}
+*   {{% resource_link bd017dbc-7bfe-7172-3ae3-1c257c0faf0f "Solid Body Rotation, Extra Notes (PDF)" %}}
 *   [Images of Shark Dermal Denticles (via Google Images)](https://www.google.com/search?client=safari&rls=en&q=shark+denticles&ie=UTF&tbm=isch&gws_rd=ssl)
 
 Videos Seen During Class
@@ -81,28 +81,28 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link 9d4f06c7-9a7e-3933-afed-97e32e719638 "Particle Kinematics (PDF)" >}}
+{{% resource_link 9d4f06c7-9a7e-3933-afed-97e32e719638 "Particle Kinematics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 2fd00e2d-5983-3573-7f3b-f04bc3374ed0 "Solutions to Particle Kinematics (PDF)" >}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource_link 31e1092d-4dc5-50cf-9db7-07dcd87518b2 "Problem 1.00 (PDF)" >}}
-{{< tdclose >}}
-{{< tdopen >}}
-{{< resource_link d7d90764-b838-c71f-9086-ce33d6fbf0e3 "Solutions to Problem 1.00 (PDF)" >}}
+{{% resource_link 2fd00e2d-5983-3573-7f3b-f04bc3374ed0 "Solutions to Particle Kinematics (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link 4e853a80-4591-1b45-00d4-d56b2ac02c20 "Vector Calculus Review Problems (PDF)" >}}
+{{% resource_link 31e1092d-4dc5-50cf-9db7-07dcd87518b2 "Problem 1.00 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 512c7346-3ac4-6ec0-895a-20efc7b7b029 "Solutions to Vector Calculus Review Problems (PDF)" >}}
+{{% resource_link d7d90764-b838-c71f-9086-ce33d6fbf0e3 "Solutions to Problem 1.00 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 4e853a80-4591-1b45-00d4-d56b2ac02c20 "Vector Calculus Review Problems (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 512c7346-3ac4-6ec0-895a-20efc7b7b029 "Solutions to Vector Calculus Review Problems (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

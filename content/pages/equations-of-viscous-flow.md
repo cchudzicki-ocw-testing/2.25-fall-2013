@@ -50,9 +50,9 @@ Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James 
 Class Notes
 -----------
 
-*   {{< resource_link 1a114d60-2956-fa0d-d328-155f9b45f93d "Couette & Poiseuille Flows (PDF)" >}}
-*   {{< resource_link a40c99d7-7c5f-2849-a864-5fcfa15a606a "Criteria for Locally Fully Developed Viscous Flow (PDF)" >}}
-*   {{< resource_link 83aa0d8f-d395-e8e7-d9bc-8b236ab4bfe7 "Equation of Motion for Viscous Flow (PDF - 1.8MB)" >}}
+*   {{% resource_link 1a114d60-2956-fa0d-d328-155f9b45f93d "Couette & Poiseuille Flows (PDF)" %}}
+*   {{% resource_link a40c99d7-7c5f-2849-a864-5fcfa15a606a "Criteria for Locally Fully Developed Viscous Flow (PDF)" %}}
+*   {{% resource_link 83aa0d8f-d395-e8e7-d9bc-8b236ab4bfe7 "Equation of Motion for Viscous Flow (PDF - 1.8MB)" %}}
 
 Videos Seen During Class
 ------------------------
@@ -80,37 +80,37 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link de516639-f59e-eb61-824f-5d21e4b6b3ee "Problem 6.05 (PDF)" >}}
+{{% resource_link de516639-f59e-eb61-824f-5d21e4b6b3ee "Problem 6.05 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 8e479b75-a3ce-ec55-09b9-55763f45d120 "Solution to Problem 6.05 (PDF)" >}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource_link 7a3ff726-e55b-41c2-2037-edbb3e3cd9ee "Problem 6.04 (PDF)" >}}
-{{< tdclose >}}
-{{< tdopen >}}
-{{< resource_link a0611fc0-ab2e-c13c-c789-3a8205362b9e "Solution to Problem 6.04 (PDF - 1.2MB)" >}}
+{{% resource_link 8e479b75-a3ce-ec55-09b9-55763f45d120 "Solution to Problem 6.05 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link f1c796b9-7a55-6ffb-5d17-7ea138dab1d6 "Problem 8.13 (PDF)" >}}
+{{% resource_link 7a3ff726-e55b-41c2-2037-edbb3e3cd9ee "Problem 6.04 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link b329d1bf-3e61-3c56-66c8-b6ddebbc0e34 "Solution to Problem 8.13 (PDF)" >}}
+{{% resource_link a0611fc0-ab2e-c13c-c789-3a8205362b9e "Solution to Problem 6.04 (PDF - 1.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link c9656bb0-1bf5-ec7b-e7de-c3e4cf60b793 "Problem 2 (PDF)" >}}
+{{% resource_link f1c796b9-7a55-6ffb-5d17-7ea138dab1d6 "Problem 8.13 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 2bb54339-b426-5350-a2a0-4c8134b47a4a "Solution to Problem 2 (PDF)" >}}
+{{% resource_link b329d1bf-3e61-3c56-66c8-b6ddebbc0e34 "Solution to Problem 8.13 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link c9656bb0-1bf5-ec7b-e7de-c3e4cf60b793 "Problem 2 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link 2bb54339-b426-5350-a2a0-4c8134b47a4a "Solution to Problem 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
