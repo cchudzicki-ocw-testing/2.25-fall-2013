@@ -58,8 +58,8 @@ Class Notes
 Videos Seen During Class
 ------------------------
 
-*   [Eulerian Lagrangian Description video](https://youtu.be/mdN8OOkx2ko) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF)](http://web.mit.edu/hml/ncfmf/01ELDFM.pdf)
-*   [Flow Visualization Video](https://youtu.be/nuQyKGuXJOs) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.1MB)](http://web.mit.edu/hml/ncfmf/05FV.pdf)
+*   [Eulerian Lagrangian Description video](https://youtu.be/mdN8OOkx2ko) and [Film Notes (PDF)](http://web.mit.edu/hml/ncfmf/01ELDFM.pdf)
+*   [Flow Visualization Video](https://youtu.be/nuQyKGuXJOs) and [Film Notes (PDF - 1.1MB)](http://web.mit.edu/hml/ncfmf/05FV.pdf)
 
 {{< anchor "assignment" >}}{{< /anchor >}}Assignment
 ----------------------------------------------------

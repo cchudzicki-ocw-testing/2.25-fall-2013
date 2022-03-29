@@ -40,7 +40,7 @@ Class Notes
 Video Seen During Class
 -----------------------
 
-*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
+*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and [Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
 
 Assignment
 ----------

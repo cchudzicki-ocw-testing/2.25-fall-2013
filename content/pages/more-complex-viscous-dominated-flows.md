@@ -42,8 +42,8 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 ### Additional Readings
 
 *   Zeidan, F. Y., and Dilip Jain. "Application of Hydrodynamic Thrust Bearings in Submersible Pumps." Paper Presented at the ESP Workshop Held in Houston, TX, April 26–28, 2000.
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A General Guide to the Principles, Operation and Troubleshooting of Hydrodynamic Bearings." (PDF)](http://www.kingsbury.com/pdf/universe_brochure.pdf) Kingsbury, Inc.
-*   McHugh, Jim. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Albert Kingsbury – His Life and Times." (PDF)](http://www.massengineers.com/Documents/albert_kingsbury.pdf) _Sound & Vibration_. October 2003.
+*   ["A General Guide to the Principles, Operation and Troubleshooting of Hydrodynamic Bearings." (PDF)](http://www.kingsbury.com/pdf/universe_brochure.pdf) Kingsbury, Inc.
+*   McHugh, Jim. ["Albert Kingsbury – His Life and Times." (PDF)](http://www.massengineers.com/Documents/albert_kingsbury.pdf) _Sound & Vibration_. October 2003.
 
 Class Notes
 -----------
@@ -56,7 +56,7 @@ Class Notes
 Videos Seen During Class
 ------------------------
 
-*   [Low Reynolds Number Flow Video](https://youtu.be/51-6QCJTAjU) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.6MB)](http://web.mit.edu/hml/ncfmf/07LRNF.pdf)
+*   [Low Reynolds Number Flow Video](https://youtu.be/51-6QCJTAjU) and [Film Notes (PDF - 1.6MB)](http://web.mit.edu/hml/ncfmf/07LRNF.pdf)
 
 Assignments
 -----------

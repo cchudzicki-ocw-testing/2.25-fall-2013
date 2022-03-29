@@ -62,8 +62,8 @@ Class Notes
 Videos Seen During Class
 ------------------------
 
-*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
-*   [Vorticity, Part 1 Video](https://youtu.be/loCLkcYEWD4), [Part 2 Video](https://youtu.be/h6bmrRFYFbc), and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 2.8MB)](http://web.mit.edu/hml/ncfmf/09VOR.pdf)
+*   [Pressure Fields and Fluid Acceleration Video](https://youtu.be/LI9Mi1KhFTs) and [Film Notes (PDF - 1.3MB)](http://web.mit.edu/hml/ncfmf/06PFFA.pdf)
+*   [Vorticity, Part 1 Video](https://youtu.be/loCLkcYEWD4), [Part 2 Video](https://youtu.be/h6bmrRFYFbc), and [Film Notes (PDF - 2.8MB)](http://web.mit.edu/hml/ncfmf/09VOR.pdf)
 
 Assignment
 ----------

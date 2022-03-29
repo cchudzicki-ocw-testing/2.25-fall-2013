@@ -26,7 +26,7 @@ No textbook readings in this section.
 Videos Seen During Class
 ------------------------
 
-*   [Surface Tension in Fluid Mechanics Video](https://youtu.be/MUlmkSnrAzM) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.1MB)](http://web.mit.edu/hml/ncfmf/04STFM.pdf)
+*   [Surface Tension in Fluid Mechanics Video](https://youtu.be/MUlmkSnrAzM) and [Film Notes (PDF - 1.1MB)](http://web.mit.edu/hml/ncfmf/04STFM.pdf)
 *   [Gobbling Droplets](http://web.mit.edu/nnf/people/jbico/Research.html#gobbling)
 *   Public Domain TV. "NASA: Amazing Experiments with Water in Zero Gravity." August 1, 2012. YouTube. [https://youtu.be/ntQ7qGilqZE](https://youtu.be/ntQ7qGilqZE)
 *   Dan Hentschel. "NASA Water Balloons in Zero G (High Quality)." October 18, 2009. YouTube. [http://youtu.be/gTqLQO3L4Ko](http://youtu.be/gTqLQO3L4Ko)

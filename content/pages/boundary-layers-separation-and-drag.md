@@ -36,7 +36,7 @@ _Reading in:_ Kundu, Pijush K., and Ira M. Cohen. _Fluid Mechanics_. 6th ed. Aca
 
 ### Additional Reading
 
-*   Anderson Jr., John D. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Ludwig Prandtl's Boundary Layer." (PDF)](http://www.aps.org/units/dfd/resources/upload/prandtl_vol58no12p42_48.pdf) _Physics Today_ 58, no. 12 (2005): 42–48.
+*   Anderson Jr., John D. ["Ludwig Prandtl's Boundary Layer." (PDF)](http://www.aps.org/units/dfd/resources/upload/prandtl_vol58no12p42_48.pdf) _Physics Today_ 58, no. 12 (2005): 42–48.
 
 Class Notes
 -----------
@@ -46,7 +46,7 @@ Class Notes
 Video Seen During Class
 -----------------------
 
-*   [Fundamentals-Boundary Layers Video](https://youtu.be/wMxK2GtFFq0) and ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Film Notes (PDF - 1.4MB)](http://web.mit.edu/hml/ncfmf/10FBL.pdf)
+*   [Fundamentals-Boundary Layers Video](https://youtu.be/wMxK2GtFFq0) and [Film Notes (PDF - 1.4MB)](http://web.mit.edu/hml/ncfmf/10FBL.pdf)
 
 Assignment
 ----------

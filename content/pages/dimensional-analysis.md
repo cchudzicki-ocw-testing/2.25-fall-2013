@@ -32,12 +32,12 @@ Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262061650) Fay, James 
 
 ### Additional Readings
 
-*   Rayleigh, Lord. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 2e4155f5-de07-4113-8dde-2d54bb0fafde "\"The Principle of Similitude.\" (PDF)" %}} _Nature_ 95, no. 66 (1915): 591.
+*   Rayleigh, Lord. {{% resource_link 2e4155f5-de07-4113-8dde-2d54bb0fafde "\"The Principle of Similitude.\" (PDF)" %}} _Nature_ 95, no. 66 (1915): 591.
 
 Class Notes
 -----------
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[The Physical Basis of Dimensional Analysis (PDF)](http://web.mit.edu/2.25/www/pdf/DA_unified.pdf)
+*   [The Physical Basis of Dimensional Analysis (PDF)](http://web.mit.edu/2.25/www/pdf/DA_unified.pdf)
 *   {{% resource_link 506579a6-771b-7004-e583-ea8b28423b7c "Similarity (PDF)" %}}
 *   {{% resource_link c0a4521f-55e9-191d-557c-167e99e97469 "The Buckingham Pi Theorem in Dimensional Analysis (PDF)" %}}
 
