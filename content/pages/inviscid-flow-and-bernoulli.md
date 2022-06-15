@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for a lecture on inviscid flow and Bernoulli.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Inviscid Flow and Bernoulli

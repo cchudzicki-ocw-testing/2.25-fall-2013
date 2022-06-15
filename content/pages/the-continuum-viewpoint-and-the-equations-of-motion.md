@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for three lectures on the continuum viewpoint and the
+  equations of motion.
 learning_resource_types: []
 ocw_type: CourseSection
 title: The Continuum Viewpoint and the Equations of Motion

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for two lectures on boundary layers, separation, and
+  drag.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Boundary Layers, Separation, and Drag

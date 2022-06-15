@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, class notes, and problems with solutions
+  for two lectures on dimensional analysis.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Dimensional Analysis

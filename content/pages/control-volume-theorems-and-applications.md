@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, class notes, and problems with solutions
+  for a lecture on control volume theorems and applications.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Control Volume Theorems and Applications

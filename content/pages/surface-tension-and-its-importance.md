@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for two lectures on surface tension and its importance.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Surface Tension and Its Importance

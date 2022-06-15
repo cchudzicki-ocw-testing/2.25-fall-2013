@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides readings, class notes, videos seen during class,
+  and problems with solutions for two lectures on vorticity and circulation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Vorticity and Circulation

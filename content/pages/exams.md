@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the quizzes and exams for the course, solutions,
+  and an associated equation sheet.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
