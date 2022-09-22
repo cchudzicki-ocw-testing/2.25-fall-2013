@@ -5,6 +5,7 @@ description: This file contains information regarding advanced fluid mechanics, 
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/e19dcbfc4d2139285a7300d624d79292_MIT2_25F13_Solution9.09.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Boundary Layers, Separation, and Drag
 parent_type: CourseSection

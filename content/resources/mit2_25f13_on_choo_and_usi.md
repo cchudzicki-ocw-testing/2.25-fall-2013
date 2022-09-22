@@ -6,6 +6,7 @@ description: 'This resource contains information related to on choosing and usin
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/1657c64b3737c8d35e5905ea21702c6b_MIT2_25F13_On_Choo_and_Usi.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Control Volume Theorems and Applications
 parent_type: CourseSection

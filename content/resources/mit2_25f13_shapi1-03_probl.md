@@ -5,6 +5,7 @@ description: 'This resource contains information related to, advanced fluid mech
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/9359536089804165c15822c3950f84f8_MIT2_25F13_Shapi1.03_Probl.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Fluid Statics
 parent_type: CourseSection

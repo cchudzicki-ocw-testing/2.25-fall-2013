@@ -6,6 +6,7 @@ file: /courses/2-25-advanced-fluid-mechanics-fall-2013/43300acaaacfe5bc552f1c763
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection

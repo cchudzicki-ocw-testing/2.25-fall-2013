@@ -5,6 +5,7 @@ description: This resource contains the information regarding, advanced fluid me
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/a0611fc0ab2ec13cc7893a8205362b9e_MIT2_25F13_Shapi6.04_Solut.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Equations of Viscous Flow
 parent_type: CourseSection

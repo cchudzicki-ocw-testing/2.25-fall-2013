@@ -5,6 +5,7 @@ description: This resource contains the information regarding, advanced fluid me
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/08ac6e0472003d99a370cd3e4e2f4cf6_MIT2_25F13_Shapi3.05_Prob.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Control Volume Theorems and Applications
 parent_type: CourseSection

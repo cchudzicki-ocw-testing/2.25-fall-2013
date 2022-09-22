@@ -5,6 +5,7 @@ description: This resource contains information related to, advanced fluid mecha
 file: /courses/2-25-advanced-fluid-mechanics-fall-2013/1ff7ec3782567cdcedabdfd4b95c1792_MIT2_25F13_Unstea_Bernou.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Inviscid Flow and Bernoulli
 parent_type: CourseSection
